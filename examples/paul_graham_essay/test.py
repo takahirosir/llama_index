@@ -12,4 +12,3 @@ while True:
     response = query_engine.query(question_prompt)
     print("Answer: ", response)
 #
-#
